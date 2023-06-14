@@ -22,7 +22,43 @@ Por fim, a adaptação responsiva do Food Explorer para diferentes tipos de disp
 No geral, o Food Explorer é uma plataforma web abrangente e bem projetada, proporcionando aos usuários uma experiência completa de pedido, acompanhamento e personalização.</p>
 </br>
 
+___
+
+## ✅ Como utilizar
+
+Clone o projeto para o seu computador.
+
+```bash
+$ git clone git@github.com:EvelymVasconcellos/FoodExplorer-FrontEnd.git
+```
+___ 
+
+#### 💻 Para executar o Front-end
+```bash
+# Navegue até o diretório do FrontEnd
+$ cd food-explorer-frontend
+
+# Instale as dependências necessárias
+$ npm install
+
+# Agora para iniciar o servidor de Front-end digite o comando
+$ npm run dev
+
+# O terminal irá exibir o endereço local onde a aplicação está sendo executada. 
+Basta digitar o mesmo endereço em seu navegador preferido. 
+O endereço usado na criação deste projeto foi este:
+
+  http://localhost:5173/
+```
+
 Para realizar o teste pelo Admin utilize a conta a seguir: </br>
 
 e-mail: admin@foodexplorer.com </br>
 senha: 123456
+
+___
+O Front-end foi hospedado diretamente no Netlify. É importante ressaltar que para que o front-end funcione perfeitamente,
+é necessário que o servidor de backend esteja respondendo e funcionando corretamente.
+
+⚠ OBS: É importante relatar que por estar hospedado em um serviço gratuito, o back-end entra em estado de hibernação após 15 minutos sem utilização e por isso pode ocorrer de demorar até 1 minuto, dependendo da carga nos servidores do Render.
+
