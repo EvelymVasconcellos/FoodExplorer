@@ -1,4 +1,10 @@
-👩🏻‍🍳 Sobre o Food Explorer - Rocketseat </br>
+<p align="center">
+  <h1 align="center"><a href="https://food-explorer-vasc-333.netlify.app/">🍴 Food Explorer - Rocketseat 🍴</a></h1>
+</p>
+ 
+___
+
+## 📝 Sobre
 
 O Food Explorer é uma plataforma web abrangente para um restaurante, oferecendo aos usuários uma experiência completa de pedido e acompanhamento. Com recursos de cadastro, criação de pedidos e acompanhamento de status, os usuários podem facilmente realizar e controlar suas escolhas. A personalização do perfil, a filtragem de favoritos e a busca ajudam a tornar a experiência mais conveniente e personalizada para cada usuário.
 
@@ -13,7 +19,8 @@ O projeto apresenta diversos efeitos visuais, o que pode tornar a plataforma mai
 
 Por fim, a adaptação responsiva do Food Explorer para diferentes tipos de dispositivos é uma característica importante, pois permite que os usuários acessem e usem a plataforma de maneira conveniente em smartphones, tablets e computadores.
 
-No geral, o Food Explorer é uma plataforma web abrangente e bem projetada, proporcionando aos usuários uma experiência completa de pedido, acompanhamento e personalização.</br>
+No geral, o Food Explorer é uma plataforma web abrangente e bem projetada, proporcionando aos usuários uma experiência completa de pedido, acompanhamento e personalização.</p>
+</br>
 
 Para realizar o teste pelo Admin utilize a conta a seguir: </br>
 
