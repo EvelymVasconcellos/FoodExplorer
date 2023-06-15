@@ -1,8 +1,10 @@
 <p align="center">
   <h1 align="center"><a href="https://food-explorer-vasc-333.netlify.app/">🍴 Food Explorer - Rocketseat 🍴</a></h1>
 </p>
- 
-___
+
+![Imagem do WhatsApp de 2023-06-15 à(s) 01 11 24](https://github.com/EvelymVasconcellos/FoodExplorer-FrontEnd/assets/65794544/d1edf45e-230c-469f-bf2d-b0e43b7bb895)
+
+
 
 ## 📝 Sobre
 
@@ -51,7 +53,7 @@ O endereço usado na criação deste projeto foi este:
   http://localhost:5173/
 ```
 
-Para realizar o teste pelo Admin utilize a conta a seguir: </br>
+🔑 Para realizar o teste pelo Admin utilize a conta a seguir: </br>
 
 e-mail: admin@foodexplorer.com </br>
 senha: 123456
